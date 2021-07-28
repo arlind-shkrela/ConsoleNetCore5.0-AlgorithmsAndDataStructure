@@ -1,0 +1,15 @@
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/bin/Debug/net5.0/LinkedList.deps.json
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/bin/Debug/net5.0/LinkedList.runtimeconfig.json
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/bin/Debug/net5.0/LinkedList.runtimeconfig.dev.json
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/bin/Debug/net5.0/LinkedList.dll
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/bin/Debug/net5.0/ref/LinkedList.dll
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/bin/Debug/net5.0/LinkedList.pdb
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/obj/Debug/net5.0/LinkedList.csproj.AssemblyReference.cache
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/obj/Debug/net5.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfoInputs.cache
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfo.cs
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/obj/Debug/net5.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/obj/Debug/net5.0/LinkedList.dll
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/obj/Debug/net5.0/ref/LinkedList.dll
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/obj/Debug/net5.0/LinkedList.pdb
+/Users/arlind/Projects/ConsoleNetCore5.0-AlgorithmsAndDataStructure/LinkedList/obj/Debug/net5.0/LinkedList.genruntimeconfig.cache
