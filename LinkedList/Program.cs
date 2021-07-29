@@ -7,17 +7,16 @@ namespace LinkedList
         static void Main(string[] args)
         {
 
+            SinglyLinkedList myList = new SinglyLinkedList();
+            myList.insertFirst(100);
+            myList.insertFirst(50);
+            myList.insertFirst(99);
+            myList.insertFirst(88);
+            myList.insertLast(999000);
+            myList.displayList();
 
-
-
-            //SinglyLinkedList myList = new SinglyLinkedList();
-            //myList.InsertFirst(100);
-            //myList.InsertFirst(50);
-            //myList.InsertFirst(99);
-            //myList.InsertFirst(80);
-            //myList.InsertFirst(20);
-            //myList.insertLast(18);
-            //myList.DisplayList();
+            myList.deleteFirst();
+            myList.displayList();
 
         }
     }
@@ -30,20 +29,20 @@ namespace LinkedList
         {
             return (First == null);
         }
-        public void InsertFirst(int data)
+        public void insertFirst(int data)
         {
             Node newNode = new Node();
             newNode.Data = data;
             newNode.Next = First;
             First = newNode;
         }
-        public Node DeleteFirst()
+        public Node deleteFirst()
         {
             Node temp = First;
             First = First.Next;
             return temp;
         }
-        public void DisplayList()
+        public void displayList()
         {
             Console.WriteLine("List (first -- last)");
             Node currentNode = First;
